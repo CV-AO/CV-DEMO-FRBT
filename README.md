@@ -3,7 +3,7 @@ This is CV-DEMO web batch repository.
 Set directory '/opt/cv/ao-front-module'.  
 
 # モジュール一覧
-- モジュール
+- モジュール  
 　/opt/cv/  
 　　┗ ao-front-module  
 　　　┗ dropbox.py----------dropbox同期起動停止スクリプト  
@@ -12,7 +12,7 @@ Set directory '/opt/cv/ao-front-module'.
 　　　┗ ao-front-sql.py----------取込みSQLファイル作成  
 　　　┗ ao-front-insert.sh----------SQLファイル取込み、取込み完了トリガファイル作成  
 
-- DropBoxデータ
+- DropBoxデータ  
 　/opt/cv-data/  
 　　┗ dbTEXT----------音声解析済みテキストファイル  
 　　┗ dbEND----------取込み完了トリガファイル  
